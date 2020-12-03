@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "352170527259",
+    "firebase_url": "https://zohory-59523.firebaseio.com",
+    "project_id": "zohory-59523",
+    "storage_bucket": "zohory-59523.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352170527259:android:7377dd4f3372eb56a946be",
+        "android_client_info": {
+          "package_name": "com.geekyrabie.zohory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352170527259-6ng5ejuo7a0v965jr40tft2hfqv4n7r3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU5GlSB6sp7u5IXvSmdG0YmtUG8D_Zo8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352170527259-6ng5ejuo7a0v965jr40tft2hfqv4n7r3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
