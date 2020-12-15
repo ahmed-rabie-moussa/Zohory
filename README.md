@@ -1,8 +1,6 @@
-# NY Times Most Popular Articles
+# Zohory
 Prerequisites :
 * Android Studio or any IDE that support Flutter must be installed.
-*	See https://developer.nytimes.com/ for details of APIs exposed by The New York Times.
-
 
 ## General Info
 App that ships flowers grown by caring hands, directly from eco-friendly greenhouses to
