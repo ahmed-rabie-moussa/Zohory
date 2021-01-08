@@ -42,7 +42,7 @@ pin_code_text_field: ^1.7.1
 
 
 ## Example:
-![](https://firebasestorage.googleapis.com/v0/b/newsapp-2c3ef.appspot.com/o/zohory.gif?alt=media&token=57a6c892-a901-459f-8c13-20788af3d423)
+![](https://m.iphoto.net/AHvrn.png)
 
 ###### Created BY
 Ahmed R. Moussa
